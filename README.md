@@ -1,4 +1,4 @@
-# Lebazar weather app
+# Flutter weather app
 
 ## Description
 Implement weather mobile application using public https://www.metaweather.com/api/.
